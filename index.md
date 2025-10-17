@@ -4,7 +4,7 @@ layout: default
 
 Welcome to my project site.
 
-[My linkedin page](https://www.linkedin.com/in/ben-crocker-04852b138/)./another-page.html).
+[My linkedin page](https://www.linkedin.com/in/ben-crocker-04852b138/)
 
 There should be whitespace between paragraphs.
 
