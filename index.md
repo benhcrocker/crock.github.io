@@ -4,7 +4,7 @@ layout: default
 
 Welcome to my project site.
 
-[Link to another page]([www.linkedin.com/in/ben-crocker-04852b138](https://github.com/benhcrocker/crock.github.io/blob/main/index.html)).
+[My linkedin page]([(https://github.com/benhcrocker/crock.github.io/blob/main/index.html)]).
 
 There should be whitespace between paragraphs.
 
