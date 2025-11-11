@@ -8,7 +8,7 @@ Welcome to my project site.
 
 Turning real-world urgency into cybersecurity vigilance.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Projects, Home Labs, and Ongoing Education:
 
 Live SOC Monitoring – LetsDefend
 
@@ -21,13 +21,7 @@ This immersive simulation challenged me to investigate realistic cyber incidents
 Cybersecurity Lab Environment – Tool Familiarization & VM Hardening
 
 I built a dedicated virtual lab using VMware Workstation Pro to explore and simulate cybersecurity workflows. Within this hardened VM, I installed and configured a comprehensive suite of tools including Wireshark, Burp Suite, Nmap, OpenVAS, OllyDbg, Procmon, RegShot, and others to deepen my familiarity with network analysis, vulnerability scanning, reverse engineering, and system monitoring. I implemented snapshot checkpoints to ensure safe rollback during experimentation and applied hardening techniques to reduce attack surface — reinforcing best practices for secure lab environments and tool-based threat analysis.
-```ruby
 
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 Web Development & Security Fundamentals – GitHub Page Project
 
