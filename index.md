@@ -8,7 +8,15 @@ Welcome to my project site.
 
 Turning real-world urgency into cybersecurity vigilance.
 
+
+
+
+
 Projects, Home Labs, and Ongoing Education:
+
+
+
+
 
 Live SOC Monitoring – LetsDefend
 
