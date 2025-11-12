@@ -8,19 +8,18 @@ Welcome to my project site.
 
 Turning real-world urgency into cybersecurity vigilance.
 
+
 * * *
-
-
 
 Projects, Home Labs, and Ongoing Education:
 
-
-
-
+* * *
 
 Live SOC Monitoring – LetsDefend
 
 In this hands-on simulation, I operated within a live Security Operations Center (SOC) environment using LetsDefend. I monitored real-time alerts across multiple attack vectors, performed structured triage, and conducted incident investigations aligned with blue team workflows. This experience sharpened my ability to distinguish false positives from genuine threats, apply containment strategies, and document findings with precision — all while reinforcing my understanding of SOC roles and escalation protocols.
+
+* * *
 
 SOC Analyst Simulation – TryHackMe
 
@@ -30,14 +29,19 @@ Cybersecurity Lab Environment – Tool Familiarization & VM Hardening
 
 I built a dedicated virtual lab using VMware Workstation Pro to explore and simulate cybersecurity workflows. Within this hardened VM, I installed and configured a comprehensive suite of tools including Wireshark, Burp Suite, Nmap, OpenVAS, OllyDbg, Procmon, RegShot, and others to deepen my familiarity with network analysis, vulnerability scanning, reverse engineering, and system monitoring. I implemented snapshot checkpoints to ensure safe rollback during experimentation and applied hardening techniques to reduce attack surface — reinforcing best practices for secure lab environments and tool-based threat analysis.
 
+* * *
 
 Web Development & Security Fundamentals – GitHub Page Project
 
 To strengthen my understanding of web technologies and application security, I created a personal GitHub page at benhcrocker.github.io. Through this project, I explored the basics of HTML structure, styling, and deployment workflows using GitHub Pages. As part of my cybersecurity learning path, I also began studying common web application vulnerabilities — including cross-site scripting (XSS) — and how secure coding practices, input validation, and proper configuration can mitigate these risks. This foundational experience supports my broader goal of mastering web-based threat detection and secure development principles.
 
+* * *
+
 Python Programming – Gamified Learning & Skill Expansion
 
 To build on the foundational 20 hours of Python training from the Google Cybersecurity Professional Certificate, I’ve committed to weekly practice on Boot.dev’s gamified learning platform since early November. I spend 2–3 hours each week solving progressively complex challenges that reinforce core programming concepts, data structures, and control flow — all within an interactive, story-driven environment. This consistent engagement is strengthening my scripting fluency and preparing me to apply Python in cybersecurity contexts such as automation, log parsing, and threat detection.
+
+* * *
 
 Threat Intelligence Exploration – ANY.RUN Deep Analysis VM
 
