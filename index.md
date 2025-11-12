@@ -49,5 +49,5 @@ To expand my exposure to real-world malware behavior and threat intelligence wor
 
 
 ```
-- Thanks for exploring my cybersecurity journey—threats evolve, and so do defenders.
+Thanks for exploring my cybersecurity journey—threats evolve, and so do we.
 ```
